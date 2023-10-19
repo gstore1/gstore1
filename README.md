@@ -1,5 +1,5 @@
 - 👋 Hi, We are GStore
-- 👀 We cover gaming and we make websites.
+- 👀 We cover gaming and we make websites. This page is only for hosting websites under Github Pages.
 - 🌱 We are currently working on improving the websites we make.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach us at gstore123@proton.me
